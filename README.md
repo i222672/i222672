@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning software engineering, data science, machine learning
 - 💞️ I’m looking to collaborate on fun projects, and anything involving working with datasets
-- 📫 How to reach me I222672@nu.edu.pk or thebatmanof2018@gmail.com
+- 📫 How to reach me thebatmanof2018@gmail.com
 - 😄 Pronouns: git/hub
 - ⚡ Fun fact: I am a university student (FAST NUCES ISB)
 <!---
