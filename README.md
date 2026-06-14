@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @i222672
+- 👋 Hi, I’m Abdullah
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning software engineering, data science, machine learning
 - 💞️ I’m looking to collaborate on fun projects, and anything involving working with datasets
